@@ -1,0 +1,2 @@
+# Three-Lane-Traffic-Management-System-using-Tiva-C-Series-Microcontroller-
+The main goal of this project is to design a fully automated traffic light system for a three-road intersection using LEDs. It focuses on creating an intelligent control algorithm to optimize traffic flow, reduce congestion, and improve road safety. A seven-segment display will show the signal timer, enhancing driver communication and awareness.
